@@ -5,3 +5,6 @@ This repository contains the single-cell RNA sequencing analysis code associated
 
 ## Requirements
 The analysis was performed in R using the Seurat framework.
+
+## Data availability
+The sequencing results and input files used in this analysis are available in the Zenodo repository associated with this manuscript. 
